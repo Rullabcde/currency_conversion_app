@@ -1,1 +1,1 @@
-simple application about currency conversion using the ExchangeRate-API API
+simple application about currency conversion using the ExchangeRate-API 
